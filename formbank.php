@@ -98,7 +98,7 @@ use PhpOffice\PhpSpreadsheet\Reader\Xlsx;
                 echo "<div class='table-responsive'>
                     <table class='table table-bordered'>
                         <tr>
-                            <th colspan='5' class='text-left'>Preview Data</th>
+                            <th colspan='6' class='text-left'>Preview Data</th>
                         </tr>
                         <tr>
                             <th>Tanggal</th>
