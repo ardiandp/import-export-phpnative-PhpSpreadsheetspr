@@ -48,4 +48,4 @@ if(isset($_POST['import'])){ // Jika user mengklik tombol Import
     unlink($path); // Hapus file excel yg telah diupload, ini agar tidak terjadi penumpukan file
 }
 
-header('location: index.php'); // Redirect ke halaman awal
+header('location: tampilbank.php'); // Redirect ke halaman awal
